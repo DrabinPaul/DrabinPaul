@@ -1,16 +1,27 @@
-### Hi there 👋
+# Hello, I'm Drabin Paul 👋
 
-<!--
-**DrabinPaul/DrabinPaul** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## About Me
+I'm a passionate and creative full-stack web developer with 1 years of experience in designing and implementing web applications. My expertise includes both front-end and back-end development, allowing me to create seamless and efficient user experiences.
 
-Here are some ideas to get you started:
+## Skills
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Front-end
+- HTML5
+- CSS3
+- JavaScript (ES6+)
+- React.js / Vue.js
+- Bootstrap / Tailwind CSS
+
+### Back-end
+- Node.js
+- 
+### Database
+- MongoDB
+
+
+## Let's Connect
+- [LinkedIn](www.linkedin.com/in/drabin-paul-b405922a7)
+- [Portfolio](link-to-portfolio)
+- [Email](drabinpaul1429@gmail.com)
+
+Feel free to explore my repositories and reach out for collaboration or just to say hi! 👨‍💻
